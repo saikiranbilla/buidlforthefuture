@@ -24,14 +24,27 @@ The application is hosted on the **Spheron** platform, providing a secure and re
 ### Backend
 - Solidity
 
+
+## Track
+- Shardeum
+- Ethereum / polygon
+
+## Why is Shardeum used in this project
+- EVM based layer-1 blockchain
+- Linear scalability with lower gas
+  
+## chain details
+Field	         | Alphanet
+Network Name   | Shardeum Liberty 2.X
+New RPC URL	   | https://liberty20.shardeum.org/
+Chain ID	     | 8081
+Currency symbol| (optional)	SHM
+
 ## Contributors
 - [Billa Sai Kiran](https://github.com/saikiranbilla)
-- [Tejesh Annavarapu](https://github.com/Tejesh18) 
-- [Vikranth Madala](https://github.com/madalavikranth31)
-- [Mohith Peddineni](https://github.com/mohithpeddineni17)
 
 ## Conclusion
 Degree Tokenization is a revolutionary solution for combating degree forgery and making the verification of degrees more efficient and trustworthy. The use of the Router protocol and Spheron hosting platform provides a secure and decentralized solution for the stakeholders, ensuring that the degrees are stored and validated on a tamper-proof and reliable network. The application is built with the latest technologies and provides a secure and user-friendly experience for all stakeholders involved.
 
 ## Demo video
-https://www.youtube.com/watch?v=9-UlAUdfr2A
+https://www.youtube.com/watch?v=piUTEO5wkzA
