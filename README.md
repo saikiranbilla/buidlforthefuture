@@ -48,3 +48,5 @@ Degree Tokenization is a revolutionary solution for combating degree forgery and
 
 ## Demo video
 https://www.youtube.com/watch?v=piUTEO5wkzA
+
+[![Run on Repl.it](https://replit.com/badge/github/saikiranbilla/buidlforthefuture)](https://replit.com/new/github/saikiranbilla/buidlforthefuture)
